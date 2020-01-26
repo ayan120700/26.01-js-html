@@ -1,0 +1,24 @@
+.active{
+    height: 74px !important;
+    transition: .2s;
+}
+.fas{
+    font-size: 20px;
+    color: black
+}
+
+.container{
+    width: 400px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10px;
+    background-color: gray;
+}
+.content p{
+    overflow: hidden;
+    margin: 0;
+    height: 74px;
+    text-align: justify
+}
